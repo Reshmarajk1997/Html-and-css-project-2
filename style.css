@@ -1,0 +1,33 @@
+.topContainer{
+    padding: 1rem;
+    background-image: linear-gradient(#022b2e, #085d63);
+    border-radius: 1%;
+}
+.topTexts{
+    color: #82F382;
+}
+.h1Text{
+    display: inline;
+    border: 1px solid rgb(36, 77, 49);
+    background-color: rgb(36, 77, 49);
+    padding: 0.3rem;
+}
+.boxes{
+    color: #82F382;
+    border: 1px solid #82F382;
+    border-radius: 5%;
+    padding: 0.2rem;
+    font-size: 0.8rem;
+}
+.containerBelow{
+    margin-top: 5rem;
+    text-align: center;
+}
+.bottomText{
+    display: inline-block;
+    border: 1px solid rgb(6, 81, 71);
+    background-image: linear-gradient(#073134, #1697a0);
+     padding: 3rem;
+    border-radius: 100%;
+    margin: 1rem; 
+}
